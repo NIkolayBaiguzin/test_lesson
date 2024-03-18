@@ -8,13 +8,11 @@ function print(numbers, text) {
 
 print(10, "hello");
 
-
 function wenday() {
   return;
-
+}
 console.log("hello worold");
 
 function pay() {
   console.log(pay);
-
 }
