@@ -6,4 +6,4 @@ function print(numbers, text) {
   }
 }
 
-print("hello");
+print(10, "hello");
