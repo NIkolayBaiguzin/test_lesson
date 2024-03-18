@@ -7,3 +7,9 @@ function print(numbers, text) {
 }
 
 print(10, "hello");
+
+console.log("hello worold");
+
+function pay() {
+  console.log(pay);
+}
