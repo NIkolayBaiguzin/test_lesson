@@ -7,3 +7,7 @@ function print(numbers, text) {
 }
 
 print(10, "hello");
+
+function wenday() {
+  return;
+}
