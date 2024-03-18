@@ -5,11 +5,9 @@ while (number < number2) {
   console.log("mam");
 }
 
-
 function wenday() {
   console.log("wen wen");
-
+}
 function pay() {
   console.log(pay);
-
 }
